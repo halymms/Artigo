@@ -1,0 +1,14 @@
+{
+    "artigo1": {
+        "titulo": "Artigo 1",
+        "texto": "Neste layout, exibimos as áreas na ordem de origem para qualquer tela com menos de 500 pixels de largura. Vamos para um layout de duas colunas e, em seguida, para um layout de três colunas redefinindo a grade e a colocação dos itens na grade."
+    },
+    "artigo2": {
+        "titulo": "Artigo 2",
+        "texto": "Artigo de avaliação final 2"
+    },
+    "artigo3": {
+        "titulo": "Artigo 3",
+        "texto": "Artigo de avaliação final 3"
+    }
+}
